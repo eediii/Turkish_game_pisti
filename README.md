@@ -1,2 +1,2 @@
 # pisti game
-Turkish game pisti.
+Turkish game pisti witten in python.
