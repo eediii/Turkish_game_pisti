@@ -1,2 +1,2 @@
-# pisti oyunu
+# pisti game
 Turkish game pisti.
